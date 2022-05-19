@@ -7,7 +7,7 @@
 
 #### Stats:
 <img align="left" alt="Corpse's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CorpseDev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img align="left" alt="Corpse's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorpseDev&hide_border=true&theme=tokyonight" />
+
 <img align="left" alt="Corpse's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CorpseDev&theme=tokyonight&hide_border=true&stroke=1a1b27" /> 
 
 
