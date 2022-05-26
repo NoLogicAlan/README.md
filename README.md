@@ -10,7 +10,7 @@
 
 <img align="left" alt="Corpse's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CorpseDev&theme=tokyonight&hide_border=true&stroke=1a1b27" /> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlanDara&theme=onedark)](https://github.com/remix-bot/revolt)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 CorpseDev/CorpseDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
