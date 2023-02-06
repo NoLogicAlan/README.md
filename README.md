@@ -1,19 +1,20 @@
-- 👋 Hi, I’m @NoLogicAlan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hey, Alan here! :wave:
 
-#### Stats:
-<img align="left" alt="Corpse's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NoLogicAlan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=NoLogicAlan&theme=dark&show_icons=true">](https://metrics.lecoq.io/NoLogicAlan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=NoLogicAlan&show_icons=true">](https://metrics.lecoq.io/NoLogicAlan#gh-light-mode-only)
 
-<img align="left" alt="Corpse's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NoLogicAlan&theme=tokyonight&hide_border=true&stroke=1a1b27" /> 
+I'm **A**lan, a stupid boy have a good heart.
+
+-   :hammer_and_pick: JavaScript / TypeScript / Python
+-   :seedling: Taking courses & doing assignments at Html, Js, Ts, Py, Php
+-   :man: Pronouns: he/him
 
 
-> **Warning**
-> ...!
+<!--START_SECTION:NoLogicAlan-->
 
-<!---
-CorpseDev/CorpseDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```text
+JavaScript    35 hrs 32 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.54 %
+```
+
+<!--END_SECTION:NoLogicAlan-->
+
